@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Pooriyasmd
 - 👀 I’m interested in Python
+- ✨ Matlab intermediate user
 - 🌱 I’m currently learning Python and HTML
 - 💞️ I’m looking to collaborate on Python
 - 📫 You can reach me on pooriyasmd@gmail.com 
